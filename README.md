@@ -1,8 +1,6 @@
 # Cantillon, An Obsidian Linking Plugin
 
-This is currently still in development and is nothing more than boiler plate at the moment
-
-This is a sample plugin for Obsidian (https://obsidian.md).
+This is currently still in development and is nothing more than boiler plate at the moment for Obsidian (https://obsidian.md).
 
 This project uses Typescript to provide type checking and documentation.
 The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
