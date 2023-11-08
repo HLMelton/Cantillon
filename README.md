@@ -1,4 +1,6 @@
-# Obsidian Sample Plugin
+# Cantillon, An Obsidian Linking Plugin
+
+This is currently still in development and is nothing more than boiler plate at the moment
 
 This is a sample plugin for Obsidian (https://obsidian.md).
 
